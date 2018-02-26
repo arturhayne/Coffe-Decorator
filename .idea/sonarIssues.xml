@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Chocolate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/CondimentoDecorador.java">
           <value>
             <set />
@@ -44,6 +49,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Drink.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Espresso.java">
           <value>
             <set />
           </value>
@@ -73,12 +83,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/MilkFoam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/SteamedMilk.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Tradicional.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Traditional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/htech/coffedecorator/Model/Water.java">
           <value>
             <set />
           </value>

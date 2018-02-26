@@ -4,15 +4,15 @@ package br.com.htech.coffedecorator.Model;
  * Created by artur.oliveira on 26/02/2018.
  */
 
-public class Milk extends FlavorDecorador {
+public class Chocolate extends FlavorDecorador {
     private Drink drink;
 
-    public Milk(Drink drink){
+    public Chocolate(Drink drink){
         this.drink = drink;
     }
 
     public String getDescription(){
-        return drink.getDescription()+", Milk";
+        return drink.getDescription()+", Chocolate";
     }
 
     public double cost(){
